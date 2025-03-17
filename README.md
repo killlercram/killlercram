@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Shashwat Tandon</h1>
-<h3 align="center">I'm a passionate 2nd-year B.Tech Computer science student at DIT University, eager to explore new technologies and broaden my knowledge horizons.</h3>
+<h3 align="center">I'm a passionate 3rd-year B.Tech Computer science student at DIT University, eager to explore new technologies and broaden my knowledge horizons.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killlercram" alt="killlercram" /></a> </p>
