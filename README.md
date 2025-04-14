@@ -2,19 +2,17 @@
 <h3 align="center">I'm a passionate 3rd-year B.Tech Computer science student at DIT University, eager to explore new technologies and broaden my knowledge horizons.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="killlercram" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers,-Issues" alt="killlercram" /></a> </p>
 
-- 🌱 I’m currently learning **Dsa,WebDev,Linux,Cloud Computing**
+- 👨‍💻 **The more you code, the more tractors start to look like dream jobs**
 
-- 👨‍💻 All of my Web Dev projects are available at [https://github.com/killlercram/Web_Dev_Projects](https://github.com/killlercram/Web_Dev_Projects)
-
-- 👨‍💻 All of my Java projects are available at [https://github.com/killlercram/Projects](https://github.com/killlercram/Projects)
+- 🌱 I’m currently learning **DSA, WebDev, DevOps, Cloud Computing**
 
 - 💬 Ask me about **Programming,Linux etc**
 
 - 📫 How to reach me **shashwattandon1@gmail.com**
 
-- ⚡ Fun fact **I Think i am very Lazy.**
+- ⚡ Fun fact **I Think I am very Lazy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
