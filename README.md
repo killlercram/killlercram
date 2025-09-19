@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Programming,Linux etc**
 
-- 📫 How to reach me **shashwattandon1@gmail.com**
+- 📫 How to reach me **shashwatandon@gmail.com**
 
 - ⚡ Fun fact **I Think I am very Lazy.**
 
